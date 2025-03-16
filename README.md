@@ -44,6 +44,13 @@ pip install opencv-python mediapipe pyautogui numpy pynput tkinter
 - Specific gestures trigger left-click, right-click, scrolling, and screenshots.
 - Press `Q` to exit the camera view.
 
+## ✋ Gesture Controls
+- **Left Click**: Keep the thumb away from the index finger. The middle finger should be straight, and the index finger should be bent.
+- **Right Click**: Keep the thumb away from the index finger. The index finger should be straight, and the middle finger should be bent.
+- **Scroll Down**: Keep the thumb away from the index finger. Bend both the index and middle fingers.
+- **Scroll Up**: Keep the thumb away from the index finger. Bend both the index and middle fingers while keeping the ring finger up.
+- **Screenshot**: Extend the pinky finger while keeping other fingers positioned neutrally.
+
 ## 🖥 GUI Interface
 The Tkinter-based GUI allows easy control:
 - **Start Button**: Begins hand gesture tracking.
